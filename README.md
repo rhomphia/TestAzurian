@@ -14,7 +14,7 @@ Componentes:
   Portlet para liferay 6.2 de despliegue, a través de componente SearchContainer, de datos consumidos desde servicios publicados.
   Se opta por consumo a vía REST.
   
-  Los parámetros de HOST y PORT están especificados en cl.az.test.helper.Constants en caso de requerir ser cambiados.
+  Los parámetros de HOST, PORT y endpoint del servicio están especificados en cl.az.test.helper.Constants en caso de requerir ser cambiados.
   
 - table.sql
 
